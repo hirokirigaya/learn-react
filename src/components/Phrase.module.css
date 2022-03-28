@@ -1,0 +1,10 @@
+.phraseContainer {
+  background-color: #1b1b1b;
+  border: 1px solid #0e0e0e;
+}
+
+.phraseLetter {
+  color: #efefef;
+  font-size: 1.25rem;
+}
+
