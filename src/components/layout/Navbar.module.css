@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.listItem {
+  text-decoration: none;
+  color: #141414;
+}

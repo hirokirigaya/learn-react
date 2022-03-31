@@ -1,0 +1,16 @@
+.idle {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: .8rem;
+  height: 100%;
+  color: #141414;
+}
+
+.idleItem {
+  color: #494949;
+  width: 1.2rem;
+  cursor: pointer;
+}
